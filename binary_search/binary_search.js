@@ -20,7 +20,7 @@ function binarySearch(list, item) {
   return null
 }
 
-let arr = ['abc', 'bo', 'c', 'd', 'e']
-console.log(binarySearch(arr, 'bo'))
+let arr = ['a', 'b', 'c', 'd', 'e']
+console.log(binarySearch(arr, 'b'))
 
 
